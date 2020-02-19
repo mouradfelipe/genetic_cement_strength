@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pthread -g   CMakeFiles/send_data.dir/send_data.cpp.o  -o send_data 

@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.10)
+project(coding)
+
+set(CMAKE_CXX_STANDARD 14)
+if(NOT CMAKE_BUILD_TYPE)
+    set(CMAKE_BUILD_TYPE Release)
+endif()
+
+set(CMAKE_CXX_FLAGS "-Wall -Wextra -pthread")
+set(CMAKE_CXX_FLAGS_DEBUG "-g")
+set(CMAKE_CXX_FLAGS_RELEASE "-O3")
+add_executable(grammar grammar.cpp)
+add_executable(new_grammar new_grammar.cpp)
+add_executable(main main.cpp)
+add_executable(main2 main2.cpp)
+add_executable(send_data send_data.cpp)

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pthread -g   CMakeFiles/grammar.dir/grammar.cpp.o  -o grammar 

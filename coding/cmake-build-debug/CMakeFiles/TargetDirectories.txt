@@ -1,0 +1,7 @@
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/cmake-build-debug/CMakeFiles/grammar.dir
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/cmake-build-debug/CMakeFiles/new_grammar.dir
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/cmake-build-debug/CMakeFiles/main.dir
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/cmake-build-debug/CMakeFiles/main2.dir
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/cmake-build-debug/CMakeFiles/send_data.dir

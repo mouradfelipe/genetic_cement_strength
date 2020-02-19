@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/new_grammar.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+utility
+-
+random
+-
+cmath
+-
+climits
+-
+string
+-
+regex
+-
+fstream
+-
+thread
+-
+cfloat
+-
+

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/1513 MXTI/ITA/PROF/2SEM/CTC-34-L/coding/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+utility
+-
+random
+-
+cfloat
+-
+sstream
+-
+fstream
+-
+regex
+-
+chrono
+-
+
